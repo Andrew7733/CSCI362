@@ -1,0 +1,6 @@
+Test #07
+Computes a ratio, given as a double value.
+NumberUtils.java
+ratio(Number n, Number in)
+2,0.5
+400.0

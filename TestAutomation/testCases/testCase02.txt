@@ -1,0 +1,6 @@
+Test #02
+Truncate the decimal part of a number to keep only 2 decimals.
+NumberUtils.java
+truncate(Number n)
+3.888
+3.88

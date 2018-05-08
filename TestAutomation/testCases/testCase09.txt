@@ -1,0 +1,6 @@
+Test #09
+Computes a ratio, given as a double value.
+NumberUtils.java
+ratio(Number n, Number in)
+12,null
+java.lang.NumberFormatException: For input string: "null"

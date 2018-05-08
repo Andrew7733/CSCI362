@@ -1,0 +1,6 @@
+Test #04
+Truncate the decimal part of a number to keep only 2 decimals.
+NumberUtils.java
+truncate(Number n)
+string
+java.lang.NumberFormatException: For input string: "string"
