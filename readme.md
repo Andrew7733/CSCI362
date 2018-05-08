@@ -1,4 +1,5 @@
 How-To Documentation:
+
 Requirements:
   Linux OS (Ubuntu 16.04.3 LTS), Java 1.8, Git
 Clone GitHub Repository:
