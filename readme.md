@@ -1,3 +1,5 @@
+This is a testing automation framework for the Sigmah open source public interest project. It was developed as a part of the CSCI362 software engineering course at the College of Charleston By: Andrew Miller, Brian Steele, and Noah Griffin
+
 How-To Documentation:
 
   Requirements:
